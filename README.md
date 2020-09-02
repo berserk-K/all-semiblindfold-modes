@@ -9,3 +9,5 @@ how to install:
 5. Copy the code that you want to have
 6. Paste it in stylus
 7. enjoy:)
+
+For any problems contact me at Lichess (Krukulu)
