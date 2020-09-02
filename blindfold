@@ -1,0 +1,67 @@
+.is2d piece.bishop.white {
+	background-image: url();
+}
+
+.is2d piece.queen.white {
+	background-image: url();
+}
+
+
+
+
+.is2d piece.rook.white {
+	background-image: url();
+}
+
+
+.is2d piece.king.white {
+	background-image: url();
+}
+
+
+
+
+.is2d piece.knight.white {
+	background-image: url();
+}
+
+
+
+
+.is2d .bishop.black {
+	background-image: url();
+}
+
+
+.is2d piece.knight.black {
+	background-image: url();
+}
+
+.is2d piece.rook.black {
+	background-image: url();
+}
+
+.is2d piece.king.black {
+	background-image: url();
+}
+
+
+
+
+
+.is2d piece.queen.black {
+	background-image: url();
+}
+
+
+
+
+
+.is2d piece.pawn.white {
+		background-image: url();
+
+}
+
+.is2d piece.pawn.black {
+	background-image: url();
+}
