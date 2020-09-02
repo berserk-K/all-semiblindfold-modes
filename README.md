@@ -10,4 +10,4 @@ how to install:
 6. Paste it in stylus
 7. enjoy:)
 
-For any problems contact me at Lichess (Krukulu)
+For any problems (or if you have a new idea for a blindfold mode) contact me at Lichess (Krukulu)
